@@ -18,7 +18,7 @@ This extension is independently created and is not associated with any student f
 
 3. **Load Extension**: "Load unpacked" → Navigate to the unzipped directory → Select.
 
-Alternatively, you can install the extension from the Chrome Web Store: [BurschiBan](https://chromewebstore.google.com/detail/burschiban/abcdefg1234567890?hl=de).
+Alternatively, you can install the extension from the Chrome Web Store: [BurschiBan](https://chromewebstore.google.com/detail/burschiban/nnmclajnmfllollhiibmdgippgjjebei).
 
 ## Usage
 
